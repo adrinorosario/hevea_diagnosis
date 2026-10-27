@@ -10,3 +10,18 @@ __pycache__/
 
 /rubber_leaf_dataset_mendeley
 ./rubber_leaf_dataset_mendeley
+
+# Sensitive keys
+.env
+
+# Large ML Weights / Checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Weights & Biases logs
+wandb/
+
+# OS specific files
+.DS_Store
