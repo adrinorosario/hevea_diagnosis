@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+/rubber_leaf_dataset_mendeley
+./rubber_leaf_dataset_mendeley

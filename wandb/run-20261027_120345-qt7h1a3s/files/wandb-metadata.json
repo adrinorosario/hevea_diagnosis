@@ -1,0 +1,35 @@
+{
+  "os":  "macOS-27.0.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.15",
+  "startedAt":  "2026-10-27T06:33:45.033393Z",
+  "program":  "<python with no main file>",
+  "email":  "rosarioadrino@gmail.com",
+  "root":  "/Users/adrinorosario/Desktop/hevea_futures",
+  "host":  "Adrinos-MacBook-Air.local",
+  "executable":  "/Users/adrinorosario/Desktop/hevea_futures/env/bin/python3.12",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "162034802688"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "model":  "Apple M2"
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "3221225472",
+    "ramTotalBytes":  "17179869184",
+    "macModel":  "Mac14,2"
+  },
+  "writerId":  "01a17c10-9951-768b-978c-7946a7f07ff5"
+}
